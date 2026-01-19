@@ -11,7 +11,6 @@ Each generated color is also applied as the background of the whole page.
 
 - Generate random colors using a button
 - Display all generated colors in a grid
-- Apply the latest generated color as the background
 - Modern and clean UI using Tailwind CSS
 
 ---
