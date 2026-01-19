@@ -18,7 +18,7 @@ function App() {
       // style={{ backgroundColor: currentColor, transition: "background-color 0.5s" }}
       
     >
-      <Header generateColor={generateColor} />
+      <Header generateColor={generateColor}  />
       <ColorGrid colors={colors} />
     </div>
   );
