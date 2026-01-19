@@ -26,4 +26,4 @@ Each generated color is also applied as the background of the whole page.
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Naeem-Raza110/Color-generator.git
