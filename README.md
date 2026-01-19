@@ -1,3 +1,5 @@
+
+
 # 🎨 Color Palette Generator (React)
 
 A simple React app that generates random colors and displays them in a grid.  
