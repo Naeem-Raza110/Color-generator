@@ -1,4 +1,4 @@
-   
+    
 
 # 🎨 Color Palette Generator (React)
 
