@@ -1,3 +1,5 @@
+   
+
 # 🎨 Color Palette Generator (React)
 
 A simple React app that generates random colors and displays them in a grid.  
@@ -9,7 +11,6 @@ Each generated color is also applied as the background of the whole page.
 
 - Generate random colors using a button
 - Display all generated colors in a grid
-- Apply the latest generated color as the background
 - Modern and clean UI using Tailwind CSS
 
 ---
@@ -26,4 +27,4 @@ Each generated color is also applied as the background of the whole page.
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Naeem-Raza110/Color-generator.git
